@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">islamic</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="المصحف">المصحف</string>
+    <string name="سبحه">سبحه</string>
+    <array name="tsbeha">
+        <item>الله و بحمده سبحان الله العظيم</item>
+        <item>استغفر الله العظيم الذي لا إله إلا هو الحي القيوم واتوب اليه</item>
+        <item>لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شئ قدير</item>
+        <item>للهم صلي وسلم وزد وبارك ع سيدنا ونبيبنا محمد</item>
+        <item>الحمد لله عدد ما كان وعدد ما يكون وعدد الحركات والسكون</item>
+        <item>لا حول ولا قوة إلا بالله العلي العظيم</item>
+        <item>اشهد ان لا إله إلا الله وان محمد عبده ورسوله</item>
+        <item>الله اكبر</item>
+        <item>لا إله إلا انت سبحانك ان كنت من الظالمين</item>
+        <item>بسم الله الذي لا يضر مع اسمه شئ وهو السميع العليم</item>
+
+    </array>
+    <string name="title_activity_main_page">main_page</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

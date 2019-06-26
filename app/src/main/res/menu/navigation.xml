@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/moshf"
+        android:icon="@drawable/ic_action_mos7f"
+        android:title="@string/المصحف" />
+
+    <item
+        android:id="@+id/sbhaa"
+        android:icon="@drawable/ic_action_seb7a"
+        android:title="@string/سبحه" />
+
+
+
+</menu>
